@@ -1,6 +1,6 @@
 <?php 
 //Tuliskan kode anda di bawah ini
-$var=6;
+$var=$_GET['angka'];
 for ($i=1; $i<$var ; $i++) { 
 	for ($j=$i; $j<$var ; $j++) { 
 		# code...
